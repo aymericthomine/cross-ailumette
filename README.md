@@ -1,9 +1,10 @@
 # Cross-Ailumette
 
-```shell
+
 ###### 2. Install the dependencies.
 ```shell
 $ npm install
+```shell
 
 ###### 2. To start the server.
 ```shell
