@@ -27,7 +27,7 @@ $ node run.js --gui
 $ npm run start
 ```
 
-Enjoy the game !
+Enjoy the game ! 😀
 
 ## Demo
 ![demo](https://i.ibb.co/QDssz57/Capture-d-e-cran-2021-02-24-a-09-24-03.png)
