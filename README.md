@@ -22,7 +22,7 @@ Cross :
 ```shell
 $ node run.js --gui
 ```
-###### 3. To start the with Electron :
+###### 3. To start the game with Electron :
 ```shell
 $ npm run start
 ```
