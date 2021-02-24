@@ -12,5 +12,5 @@ $ npm run start
 ```
 Cross :  
 ```shell
-$ node run.js -gui
+$ node run.js --gui
 ```
