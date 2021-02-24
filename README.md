@@ -10,7 +10,7 @@ $ npm install
 ```shell
 $ npm run start
 ```
-or
+Cross :  
 ```shell
 $ node run.js -gui
 ```
