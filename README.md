@@ -1,12 +1,16 @@
 # Cross-Ailumette
 
 
-###### 2. Install the dependencies.
+###### 1. To install the node_modules :
 ```shell
 $ npm install
-```shell
+```
 
-###### 2. To start the server.
+###### 2. To start the game in shell :
 ```shell
 $ npm run start
+```
+or
 ```shell
+$ node run.js -gui
+```
