@@ -1,5 +1,6 @@
 # Cross-Ailumette
 
+![demo](https://i.ibb.co/P5FC4v0/cross-ailumette.png)
 
 ###### 1. To install the node_modules :
 ```shell
@@ -18,3 +19,8 @@ $ node run.js --gui
 ```shell
 $ npm run start
 ```
+
+Enjoy the game !
+
+## Demo
+![demo](https://i.ibb.co/QDssz57/Capture-d-e-cran-2021-02-24-a-09-24-03.png)
